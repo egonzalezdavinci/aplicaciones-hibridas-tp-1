@@ -1,0 +1,22 @@
+[
+    {
+        "slug": "mobile",
+        "name": "Mobile"
+    },
+    {
+        "slug": "landingpage",
+        "name": "LandingPage"
+    },
+    {
+        "slug": "webapp",
+        "name": "Web App"
+    },
+    {
+        "slug": "ecommerce",
+        "name": "e-Commerce"
+    },
+    {
+        "slug": "games",
+        "name": "Games"
+    }
+]
